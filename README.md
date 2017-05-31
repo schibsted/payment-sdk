@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/schibsted/identity-sdk-node.svg?branch=master)](https://travis-ci.org/schibsted/identity-sdk-node)
-[![GitHub issues](https://img.shields.io/github/issues/schibsted/identity-sdk-node.svg)](https://github.com/schibsted/identity-sdk-node/issues)
-[![Version](https://img.shields.io/npm/v/schibsted-identity-sdk-node.svg?style=flat-square)](http://npm.im/schibsted-identity-sdk-node)
-[![Downloads](https://img.shields.io/npm/dm/schibsted-identity-sdk-node.svg?style=flat-square)](http://npm-stat.com/charts.html?package=schibsted-identity-sdk-node&from=2017-01-01)
-[![MIT License](https://img.shields.io/npm/l/schibsted-identity-sdk-node.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/schibsted/payment-sdk.svg?branch=master)](https://travis-ci.org/schibsted/payment-sdk)
+[![GitHub issues](https://img.shields.io/github/issues/schibsted/payment-sdk.svg)](https://github.com/schibsted/payment-sdk/issues)
+[![Version](https://img.shields.io/npm/v/schibsted-payment-sdk.svg?style=flat-square)](http://npm.im/schibsted-payment-sdk)
+[![Downloads](https://img.shields.io/npm/dm/schibsted-payment-sdk.svg?style=flat-square)](http://npm-stat.com/charts.html?package=schibsted-payment-sdk&from=2017-01-01)
+[![MIT License](https://img.shields.io/npm/l/schibsted-payment-sdk.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 # Introduction
 
