@@ -1,6 +1,6 @@
 {
   "name": "schibsted-payment-sdk",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "SDK for Schibsted Payment",
   "keywords": [
     "schibsted",
